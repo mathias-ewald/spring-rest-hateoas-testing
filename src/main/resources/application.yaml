@@ -1,0 +1,6 @@
+server:
+  port: 8022
+  
+logging:
+  level:
+    root: DEBUG
